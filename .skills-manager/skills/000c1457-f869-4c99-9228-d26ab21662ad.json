@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "000c1457-f869-4c99-9228-d26ab21662ad",
+  "path": "Frontend Builder",
+  "path_key": "frontend builder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

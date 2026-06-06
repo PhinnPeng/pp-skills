@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "512b1af0-36fd-4759-8000-99e4013b16ee",
+  "path": "docs-write",
+  "path_key": "docs-write",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

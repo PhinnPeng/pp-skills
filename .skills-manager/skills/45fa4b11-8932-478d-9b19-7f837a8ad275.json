@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "45fa4b11-8932-478d-9b19-7f837a8ad275",
+  "path": "create-an-asset",
+  "path_key": "create-an-asset",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

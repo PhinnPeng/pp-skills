@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e63187b8-1e7b-456e-848d-58e15b36e715",
+  "path": "documentation-engineer",
+  "path_key": "documentation-engineer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

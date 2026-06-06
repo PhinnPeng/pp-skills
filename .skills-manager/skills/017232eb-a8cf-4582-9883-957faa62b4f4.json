@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "017232eb-a8cf-4582-9883-957faa62b4f4",
+  "path": "cursor-image-generation",
+  "path_key": "cursor-image-generation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

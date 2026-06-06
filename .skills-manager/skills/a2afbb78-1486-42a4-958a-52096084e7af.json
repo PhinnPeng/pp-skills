@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a2afbb78-1486-42a4-958a-52096084e7af",
+  "path": "exploring-codebases",
+  "path_key": "exploring-codebases",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

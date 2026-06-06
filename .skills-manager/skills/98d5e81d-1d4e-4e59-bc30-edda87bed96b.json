@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "98d5e81d-1d4e-4e59-bc30-edda87bed96b",
+  "path": "technical-roadmap-planning",
+  "path_key": "technical-roadmap-planning",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
