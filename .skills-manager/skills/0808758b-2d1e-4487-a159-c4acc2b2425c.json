@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0808758b-2d1e-4487-a159-c4acc2b2425c",
+  "path": "plan-with-story",
+  "path_key": "plan-with-story",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/PhinnPeng/pp-skills.git",
+    "subpath": "plan-with-story",
+    "branch": null
+  }
+}

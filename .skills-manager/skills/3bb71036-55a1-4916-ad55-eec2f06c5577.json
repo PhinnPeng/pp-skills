@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3bb71036-55a1-4916-ad55-eec2f06c5577",
+  "path": "read-agents-md",
+  "path_key": "read-agents-md",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/PhinnPeng/pp-skills.git",
+    "subpath": "read-agents-md",
+    "branch": null
+  }
+}

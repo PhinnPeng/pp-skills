@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "scenario_id": "3445b17d-e8a7-440b-82bf-8b08ad492a7c",
-  "skill_id": "c3336bc7-6532-427e-9f7a-114c8976dd22",
-  "sort_order": 0,
+  "skill_id": "3bb71036-55a1-4916-ad55-eec2f06c5577",
+  "sort_order": 2,
   "tools": {
     "antigravity": true,
     "claude_code": true,
@@ -13,6 +13,8 @@
     "kiro": true,
     "openclaw": true,
     "opencode": true,
+    "pi": true,
+    "qoder": true,
     "trae": true,
     "trae_cn": true,
     "windsurf": true,

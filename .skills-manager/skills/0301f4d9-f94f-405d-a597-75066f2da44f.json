@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0301f4d9-f94f-405d-a597-75066f2da44f",
+  "path": "git-push",
+  "path_key": "git-push",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/PhinnPeng/pp-skills.git",
+    "subpath": "git-push",
+    "branch": null
+  }
+}
