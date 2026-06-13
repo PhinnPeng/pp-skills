@@ -7,7 +7,7 @@
   "tags": [],
   "source": {
     "type": "git",
-    "ref": "https://github.com/PhinnPeng/pp-skills.git",
+    "ref": "https://github.com/PhinnPeng/pp-skills",
     "subpath": "read-agents-md",
     "branch": null
   }
